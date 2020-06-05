@@ -1,2 +1,2 @@
-# FaceRecognition
+# FaceRecognition- OpenCV
 Coming soon
