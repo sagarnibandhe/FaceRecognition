@@ -1,5 +1,7 @@
 import os
 import cv2
+
+
 import numpy as np
 
 filename = 'video.mp4'
